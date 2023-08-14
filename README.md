@@ -1,1 +1,2 @@
-# calci
+# calculator
+using HTML and CSS
